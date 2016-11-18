@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/contactlab/saray.svg)](https://travis-ci.org/contactlab/saray)
 
+[![Coverage Status](https://coveralls.io/repos/github/psantori/saray/badge.svg?branch=master)](https://coveralls.io/github/psantori/saray?branch=master)
+
 ```javascript
 'Yet Another Rest API Stubber'.split(' ').reverse().map(item => item[0].toLowerCase()).join('')
 ```
